@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lugar95
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning how to Apache Spark.
 - 💞️ I’m looking to collaborate on any web scraping projects or tasks to practice my new SQL knowledge.
 - 📫 How to reach me: www.linkedin.com/in/luke-gardiner
 
